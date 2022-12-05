@@ -1,0 +1,2 @@
+# ocr
+ocr belum sempurna
